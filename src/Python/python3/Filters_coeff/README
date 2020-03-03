@@ -1,0 +1,12 @@
+Files in this folder are:
+1) coeff_bpf_esa.txt
+2) coeff_hpf_esa.txt
+3) create_coeff_file.py
+
+The first two files are the last version of bandpass (1) and hilbert (2) filter coefficients recomputed to get a closer amplitute response.
+The third file is the script to create the .coe file used by ISE to configure the coefficient ROM.
+Usage is:
+
+python create_coeff_file.py -b coeff_bpf_esa.txt -h coeff_hpf_esa.txt-o coe_file(without the .coe extension)
+
+The coefficients files in the folder were generated in march 20th 2012. Amplitude response is about the same.
