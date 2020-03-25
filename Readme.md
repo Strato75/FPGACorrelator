@@ -3,7 +3,7 @@ The backend is implemented on a Digilent Virtex-II Pro FPGA Development System<s
 
 ![](images/Backend.jpg)
 
-#### Reference:
+#### References:
 1. [G. Serra; P. Bolli; G. Busonera; T. Pisanu; S. Poppi; F. Gaudiomonte; G. Zacchiroli; J. Roda; M. Morsiani; J. A. López-Pérez - *The microwave holography system for the Sardinia Radio Telescope* - Proceedings of SPIE: Ground-based and Airborne Telescopes IV, vol.8444, 2012](
 https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8444/84445W/The-microwave-holography-system-for-the-Sardinia-Radio-Telescope/10.1117/12.926160.short)
 2. [Digilent Virtex-II Pro FPGA Development System,  Accessed: march 25, 2020](https://store.digilentinc.com/virtex-ii-pro-fpga-development-system-limited-time/)
