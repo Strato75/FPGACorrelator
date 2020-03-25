@@ -1,5 +1,7 @@
-This repository contains the HDL and python code of the backend of the microwave holography system running on the Sardinia Radio Telescope (SRT)<sup>1</sup>.
+This repository contains the HDL and python code of the backend of the microwave holography system (shown in the following image) running on the Sardinia Radio Telescope (SRT)<sup>1</sup>.
 The backend is implemented on a Digilent Virtex-II Pro FPGA Development System<sup>2</sup>. The A/D conversion is perfomed by means of two Maxim Evaluation Kit<sup>3</sup> mounting the Maxim 19588 ADC<sup>4</sup>.
+
+![](images/Backend.jpg)
 
 #### Reference:
 1. [G. Serra; P. Bolli; G. Busonera; T. Pisanu; S. Poppi; F. Gaudiomonte; G. Zacchiroli; J. Roda; M. Morsiani; J. A. López-Pérez - *The microwave holography system for the Sardinia Radio Telescope* - Proceedings of SPIE: Ground-based and Airborne Telescopes IV, vol.8444, 2012](
