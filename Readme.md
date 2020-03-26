@@ -1,5 +1,5 @@
 This repository contains the Verilog HDL and Python code of the backend of the microwave holography system (shown in the following image) running on the Sardinia Radio Telescope (SRT)<sup>1</sup>.
-The backend is implemented on a Digilent Virtex-II Pro FPGA Development System<sup>2</sup>. The A/D conversion is perfomed by means of two Maxim Evaluation Kit<sup>3</sup> mounting the Maxim 19588 ADC<sup>4</sup>.
+The backend is implemented on a Digilent Virtex-II Pro FPGA Development System<sup>2</sup>. The A/D conversion is perfomed by means of two Maxim Evaluation Kit<sup>3</sup> using the Maxim 19588 ADC<sup>4</sup>.
 
 ![](images/Backend.jpg)
 
